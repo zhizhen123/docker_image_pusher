@@ -3,7 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ddsderek/wxchat:latest
-suraxiuxiu/MoviePilot-Plugins
+suraxiuxiu/wework-ippw:v1.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
